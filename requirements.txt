@@ -1,0 +1,5 @@
+flask==3.1.1
+gunicorn==23.0.0
+google-genai==1.14.0
+faiss-cpu==1.11.0
+numpy==2.2.6
